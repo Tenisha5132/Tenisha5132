@@ -1,11 +1,11 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,8B0000&height=120&section=header&text=Tenisha%20Akhila%20Balla&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0D0D0D,8B0000&height=150&section=header&text=Tenisha%20Akhila%20Balla&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=AI%20Researcher%20%7C%20Security%20Enthusiast&descAlignY=65&descSize=16)
 
 </div>
 
 <h1 align="center">
-  Hello There, I'm Tenisha Akhila Balla
+  Hello There, I'm Tenisha Akhila Balla 🌙
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
@@ -15,12 +15,12 @@
 
 <h2>About Me:</h2>
 <p>
-AI & Data Science student at Amrita Vishwa Vidyapeetham with a focus on Multi-Agent Reinforcement Learning and UAV swarm systems. Former bi0s red team member and ACM Cyber SIG member. I research, build, and occasionally break things — all in the name of science.
+AI & Data Science student at Amrita Vishwa Vidyapeetham researching Multi-Agent Reinforcement Learning and UAV swarm systems. Former <b>bi0s</b> red team member (India's top globally-ranked CTF team) and <b>ACM Cyber SIG</b> member. I build intelligent systems by day and break insecure ones by night.
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## I Work With
+## 🩸 I Work With
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -40,9 +40,9 @@ AI & Data Science student at Amrita Vishwa Vidyapeetham with a focus on Multi-Ag
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## Connect With Me
+## 🌑 Connect With Me
 
 <div align="center">
 
@@ -52,11 +52,11 @@ AI & Data Science student at Amrita Vishwa Vidyapeetham with a focus on Multi-Ag
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
 
-## Git Achievements
+## ⚰️ Git Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=Tenisha5132&no-bg=true&no-frame=true&theme=onestar)
+![](https://github-profile-trophy.vercel.app/?username=Tenisha5132&no-bg=true&no-frame=true&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tenisha5132&theme=github_dark)
 
@@ -71,4 +71,6 @@ AI & Data Science student at Amrita Vishwa Vidyapeetham with a focus on Multi-Ag
   </tr>
 </table>
 
-![](https://img.shields.io/github/followers/Tenisha5132?label=Github%20followers&style=for-the-badge)
+![](https://img.shields.io/github/followers/Tenisha5132?label=Github%20followers&style=for-the-badge&color=8B0000&labelColor=0D0D0D)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000,0D0D0D&height=100&section=footer" width="100%"/>
