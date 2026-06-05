@@ -15,7 +15,7 @@
 
 <h2>About Me:</h2>
 <p>
-AI & Data Science student at Amrita Vishwa Vidyapeetham researching Multi-Agent Reinforcement Learning and UAV swarm systems. Former <b>bi0s</b> red team member (India's top globally-ranked CTF team) and <b>ACM Cyber SIG</b> member. I build intelligent systems by day and break insecure ones by night.
+AI & Data Science student at Amrita Vishwa Vidyapeetham researching Multi-Agent Reinforcement Learning and UAV swarm systems. Former <b>bi0s</b> red team member (India's top globally-ranked CTF team) and <b>ACM Cyber SIG Lead</b>. I build intelligent systems by day and break insecure ones by night.
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
@@ -29,12 +29,15 @@ AI & Data Science student at Amrita Vishwa Vidyapeetham researching Multi-Agent 
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="pgAdmin / PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>
@@ -60,9 +63,9 @@ AI & Data Science student at Amrita Vishwa Vidyapeetham researching Multi-Agent 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tenisha5132&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tenisha5132&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tenisha5132&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tenisha5132&theme=github_dark&include_all_commits=true&count_private=true) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tenisha5132&theme=github_dark&include_all_commits=true&count_private=true)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tenisha5132&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tenisha5132&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tenisha5132&theme=github_dark&include_all_commits=true&count_private=true) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tenisha5132&theme=github_dark&include_all_commits=true&count_private=true)
 
 <table>
   <tr>
