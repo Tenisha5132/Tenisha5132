@@ -10,12 +10,12 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480" height="300"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="480" height="300"/>
 </div>
 
 <h2>About Me:</h2>
 <p>
-AI & Data Science student at Amrita Vishwa Vidyapeetham researching Multi-Agent Reinforcement Learning and UAV swarm systems. Former <b>bi0s</b> red team member (India's top globally-ranked CTF team) and <b>ACM Cyber SIG Lead</b>. I build intelligent systems by day and break insecure ones by night.
+An AI & Data Science student at Amrita Vishwa Vidyapeetham, researching Multi-Agent Reinforcement Learning and UAV swarm systems — with hands-on experience in end-point Pen-Testing and a passion for breaking things the right way. Former <b>bi0s</b> red team member (India's top globally-ranked CTF team) and <b>ACM Cyber SIG Lead</b> at the ACM Student Chapter, Amritapuri. Proven track record of mentoring students in cybersecurity, leading with purpose, and thriving on challenges that sit at the intersection of intelligence and security. I build smart systems by day, dismantle insecure ones by night.
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%">
